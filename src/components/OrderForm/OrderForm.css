@@ -1,0 +1,11 @@
+.center {
+    display: block;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.swal2-popup {
+    font-family: 'Yantramanav';
+}

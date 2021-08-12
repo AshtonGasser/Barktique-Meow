@@ -1,0 +1,9 @@
+.OrderNum-Nav{
+color: black;
+text-decoration: underline;
+
+}
+
+.navLink:hover {
+    background-Color: #5d5d5d
+}

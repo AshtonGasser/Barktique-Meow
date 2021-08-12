@@ -1,0 +1,37 @@
+h2,
+h3 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 -10px 0;
+}
+
+.admin-buttons {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.admin-button-align {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.admin-header {
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.admin_bark_logo {
+  width: 300px;
+  height: 100px;
+}
+
+.admin-dashboard-btn {
+  margin-left: 15px;
+}
+
+.welcome-text {
+  margin-bottom: 50px;
+}
